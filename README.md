@@ -25,7 +25,6 @@
 |Discipline|[![ML Badge](https://img.shields.io/badge/-Machine_Learning-292d33?style=flat-square&logo=&logoColor=white)](https://github.com/search?l=Python&q=user%3Azmcx16&type=Repositories) [![GA Badge](https://img.shields.io/badge/-Genetic_Algorithm-292d33?style=flat-square&logo=&logoColor=white)](https://github.com/search?l=Python&q=user%3Azmcx16&type=Repositories)
 
 </center>
-</br>
 <hr>
 
 ## Stats
