@@ -1,16 +1,18 @@
 # Hi, I am Carol 
 
 <center>
-<p>A Computer Science graduate of 2020. Currently working as AI Engineer focusing on image processing in healthcare industry.</p></center>
+<p>A Computer Science graduate of 2020. Currently working as AI Engineer focusing on image processing in healthcare industry.</p>
+</center>
 <hr>
 
-<h3> More About Me </h3>
+## More About Me 
 
 - 🔭 I’m currently working on: a Genetic Algorithm for optimization project
 - ❤️ I use on a daily basis: Python, Go
 - 🌱 I’m currently learning: YOLOv5 and more about Python
 - 💜 Interests: travel, cats, memes, tea, movies
 <hr>
+
 <center>
 
 | |Tech Stacks && Tools|
@@ -25,6 +27,10 @@
 </center>
 </br>
 <hr>
+
+## Stats
+
+![Profile views](https://gpvc.arturio.dev/Sycarol)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src=https://github-readme-stats.vercel.app/api?username=sycarol&count_private=true&show_icons=true&theme=onedark />
